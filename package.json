@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "build": "echo All OK! Build script from package.json is here.",
+    "build-assets": "echo All OK! Run webpack or other builders here."
+  }
+}
